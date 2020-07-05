@@ -1,6 +1,12 @@
 # TextViewPlaceholderSample
 Example of a `UITextView` with a placeholder in Swift.
 
+Features:
+- Placeholder text appears when there is no text in the UITextView.
+- Placeholder text is a different color than the input text.
+- The UITextView becomes first responder (keyboard appears), when the view controller appears.
+- The placeholder text stays visible until the user inputs text.
+
 <p align="center">
   <img src="demo.gif" alt="iPhone 11 Pro - demo"/>
 </p>
